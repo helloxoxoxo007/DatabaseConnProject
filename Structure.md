@@ -1,9 +1,9 @@
 # Idea of content
 
-#Structure
+# Structure
 
-##Describe
-##Connectivities
-##Architect
-##Check
-#Basic Operation
+## Describe
+## Connectivities
+## Architect
+## Check
+## Basic Operation
